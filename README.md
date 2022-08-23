@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 I'm a 23 year old Backend Software Engineer that loves working with web3
 
 
